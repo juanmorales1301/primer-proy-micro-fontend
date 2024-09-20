@@ -1,7 +1,3 @@
-Aquí tienes el archivo `README` reorganizado y completado para hacerlo más claro y comprensible:
-
----
-
 # Aplicación Microfrontend con Single-SPA
 
 Una aplicación **microfrontend** permite integrar múltiples frameworks o bibliotecas en un solo proyecto, permitiendo utilizar diversas tecnologías, como React, Angular, Vue, etc. Para gestionar estos microfrontends, se utiliza **webpack** junto con la librería **single-spa**, que se encarga de configurar el entorno adecuado.
